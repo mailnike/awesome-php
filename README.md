@@ -806,6 +806,10 @@ Libraries to help manage database schemas and migrations.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Lychee](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
+* [ZapAccounting - Accounting Simplified](https://www.zaperp.com/accounting) - Simple to use online accounting and invoicing, unlimited use for single users and freelancers. Rebranded from Pi.TEAM
+* [ZapExpense - Expense Simplified](https://www.zaperp.com/expense) - Simple to use online expense management unlimited for single users and freelancers.
+* [ZapInventory - Accounting Simplified](https://www.zaperp.com/inventory) - Simple to use online inventory management for your business, purchase and sales order with inventory tracking.
+* [ZapRealEstate - Real Estate Management Software](https://www.zaperp.com/realestate) - Simple to use online expense management unlimited use for single users and freelancers.
 
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
